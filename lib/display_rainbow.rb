@@ -1,8 +1,6 @@
 # Write your #display_rainbow method here
 
-red = "R:red"
-orange = "O: orange" 
-yellow = "Y: yellow"
+red = "R:red", "O: orange" , "Y: yellow"
 green = "G: green"
 blue = "B: blue"
 indigo = "I: indigo"
